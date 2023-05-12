@@ -1,0 +1,15 @@
+cuerno aca te dejo un video en el minuto 14 mas o menos me quede y no pude seguir, me tira error al intentar importar el db del app, para la base de datos.
+el error es este : "RuntimeError: Either 'SQLALCHEMY_DATABASE_URI' or 'SQLALCHEMY_BINDS' must be set." se me quemo la cabeza jajaja fijate si tenes tiempo y lo 
+solucionas avisame como, ya despues sigo yo con el resto que esta bastante facil , y en este video esta clarito digamos. puto chupa verga.
+
+Link video : https://www.youtube.com/watch?v=71EU8gnZqZQ  minuto 14 cuerno! 
+
+jop de paso practico github con esto jajajaj 3er push que te mando ya jajajajja 
+
+
+olvidate de lo estetico de la pagina, quiero crear todo para que funque no mas y dsp con tiempo vemos el diseño.
+
+hasta aca solo 2 paginas html, la main del log in, y bueno la otra que es dentro del workstation si es que el log funco bien, pero lo codifico cuando me arregles la conexion y me diga
+como hiciste jajajajajja . jop chau .
+
+Ravix.
