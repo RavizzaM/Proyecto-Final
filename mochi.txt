@@ -13,3 +13,8 @@ hasta aca solo 2 paginas html, la main del log in, y bueno la otra que es dentro
 como hiciste jajajajajja . jop chau .
 
 Ravix.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+sabado 13/05/2023
+Jop aca actualize el app y el html, quedaria solucionar lo de la bd o bien hacer una bd por fuera de esto y vincularla aca, veremos jop fijate que te parece mejor cat segun vos 
+y vemos como lo hacemos, si lo llegas a probar tenes que sacar el "loginrequired" del app.py , del prueba.html ( que seria la redirecion al login exitoso)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
