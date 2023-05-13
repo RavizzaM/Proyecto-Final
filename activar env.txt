@@ -1,0 +1,9 @@
+para activar el entorno virtual, ir al directorio "env" dentro de "scripts" y usar .\activate
+
+moverme de carpetas es cd > a donde quiera para adelante
+
+cd .. un para atras
+
+
+para ejecutar la apk,, con el env activado, comando python app.py, pero ir a la carpeta donde esta el
+app.py sino no funca jop
