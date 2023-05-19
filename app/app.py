@@ -16,6 +16,7 @@ db = SQLAlchemy(app)
 Bcrypt = Bcrypt(app)
 app.config['SECRET_KEY'] = 'thisisasecretkey'
 alla = "manco style"
+Lala= "mochi manco style 2.0"
 
 
 Login_Manager = LoginManager()
