@@ -15,7 +15,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database.db'
 db = SQLAlchemy(app)
 Bcrypt = Bcrypt(app)
 app.config['SECRET_KEY'] = 'thisisasecretkey'
-
+alla = "manco style"
 
 
 Login_Manager = LoginManager()
